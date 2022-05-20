@@ -1,0 +1,10 @@
+
+  
+.modaleContainer{
+    background-color: rgb(214, 92, 21);
+    height: 100vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+
+}
